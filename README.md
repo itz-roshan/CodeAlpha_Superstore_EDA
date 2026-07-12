@@ -80,8 +80,6 @@ Public **Superstore Sales dataset** containing order, product, customer, categor
  ┃ ┣ 📜 Superstore.csv
  ┃ ┗ 📜 Clean_Superstore.csv
  ┣ 📓 Superstore_EDA.ipynb          # Task 2 - Exploratory Data Analysis
- ┣ 📓 Data_Visualization.ipynb      # Task 3 - Data Visualization
- ┣ 📄 CodeAlpha_Task2_Task3_Report.pdf
  ┗ 📄 README.md
 ```
 
@@ -112,30 +110,7 @@ Key steps performed in `Superstore_EDA.ipynb`:
 | 📅 Seasonality | Clear seasonal sales trends observed |
 | 📦 Revenue Concentration | A small number of products drove a large share of revenue |
 
----
-
-## 📊 Task 3 — Data Visualization
-
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
-
-Visualizations created in `Data_Visualization.ipynb` using **Matplotlib** & **Seaborn**:
-
-| Chart | Insight Revealed |
-|---|---|
-| 📊 Bar Chart – Sales by Category | Top-performing product categories |
-| 📊 Bar Chart – Profit by Region | Most/least profitable regions |
-| 📈 Line Chart – Monthly Sales Trend | Seasonal demand patterns |
-| 🥧 Pie Chart – Sales Share by Category | Category-wise contribution |
-| 📉 Histogram – Sales Distribution | Spread & skew of sales values |
-| 📦 Box Plot – Profit Outliers | Extreme profit/loss values |
-| ⚪ Scatter Plot – Sales vs Profit | Relationship between sales & profit |
-| ⚪ Scatter Plot – Discount vs Profit | Effect of discounting on profit |
-| 🔥 Correlation Heatmap | Relationships between numeric features |
-| 🔢 Count Plot – Customer Segments | Distribution of customer segments |
-
----
-
-## 💼 Business Insights
+ ## 💼 Business Insights
 
 > Visualizations revealed top-performing categories, profitable regions, customer behavior, seasonal demand, and the relationship between discount and profit — enabling more informed, data-driven business decisions.
 
@@ -155,11 +130,9 @@ jupyter notebook
 
 # 4. Open and run
 Superstore_EDA.ipynb        # Task 2
-Data_Visualization.ipynb    # Task 3
 ```
 
 ---
-
 ## ✅ Conclusion
 
 This project demonstrates a complete **Data Analytics workflow** — from data cleaning and exploratory analysis to visualization and business insight generation.
